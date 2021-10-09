@@ -1,0 +1,21 @@
+**selector ::**
+
+p {
+  text-align: center;
+  color: red;
+}
+
+id selector :: 
+
+#para1 {
+  text-align: center;
+  color: red;
+}
+
+class selector :: 
+
+.center {
+  text-align: center;
+  color: red;
+}
+
